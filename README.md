@@ -3,7 +3,7 @@
 Analista de Dados | Especialista em Treinamento de Modelos de IA
 Transformo dados em insights estratégicos para apoiar decisões e gerar impacto mensurável nos negócios.
 
-##📫 Contato
+## 📫 Contato
 
 LinkedIn: linkedin.com/in/danilopaslar
 GitHub: github.com/dpaslar
@@ -18,7 +18,7 @@ GitHub: github.com/dpaslar
   
   Big Data & Cloud: Processamento de grandes volumes, pipelines em AWS, conhecimento em Hadoop/Spark
 
-#📂 Projetos
+# 📂 Projetos
 ## 1. Detecção de Fraude com Cartão de Crédito
   
   Link: GitHub
