@@ -1,24 +1,24 @@
-## 👋 Olá, eu sou Danilo Paslar
+# 👋 Olá, eu sou Danilo Paslar
 
 Analista de Dados | Especialista em Treinamento de Modelos de IA
 Transformo dados em insights estratégicos para apoiar decisões e gerar impacto mensurável nos negócios.
 
-📫 Contato
+##📫 Contato
 
 LinkedIn: linkedin.com/in/danilopaslar
 GitHub: github.com/dpaslar
 
-🔧 Skills Técnicas
+## 🔧 Skills Técnicas
+  
+  Linguagens & Ferramentas: Python (Pandas, NumPy, scikit-learn), SQL, R, Power BI, Looker Studio, Excel (Power Query, VBA), AWS (S3, Lambda, API Gateway), Docker, GitHub
+  
+  Modelagem & Análise: EDA, modelagem preditiva, avaliação de modelos, balanceamento de classes (SMOTE), regressão, classificação, clustering
+  
+  Visualização & Storytelling: Dashboards estratégicos, relatórios interativos, comunicação de insights para stakeholders
+  
+  Big Data & Cloud: Processamento de grandes volumes, pipelines em AWS, conhecimento em Hadoop/Spark
 
-Linguagens & Ferramentas: Python (Pandas, NumPy, scikit-learn), SQL, R, Power BI, Looker Studio, Excel (Power Query, VBA), AWS (S3, Lambda, API Gateway), Docker, GitHub
-
-Modelagem & Análise: EDA, modelagem preditiva, avaliação de modelos, balanceamento de classes (SMOTE), regressão, classificação, clustering
-
-Visualização & Storytelling: Dashboards estratégicos, relatórios interativos, comunicação de insights para stakeholders
-
-Big Data & Cloud: Processamento de grandes volumes, pipelines em AWS, conhecimento em Hadoop/Spark
-
-📂 Projetos
+#📂 Projetos
 ## 1. Detecção de Fraude com Cartão de Crédito
   
   Link: GitHub
@@ -53,7 +53,7 @@ Big Data & Cloud: Processamento de grandes volumes, pipelines em AWS, conhecimen
   
   Resultado: monitoramento eficiente de empréstimos e análise de disponibilidade de livros
 
-## 📈 Principais Resultados
+# 📈 Principais Resultados
   
   Aumento de 30% na eficácia de campanhas de marketing com ML
   
