@@ -20,8 +20,6 @@ LinkedIn: linkedin.com/in/danilopaslar
 # 📂 Projetos
 ## 1. Detecção de Fraude com Cartão de Crédito
   
-  Link: GitHub
-  
   Modelagem preditiva com Random Forest e Regressão Logística
   
   Aplicação de SMOTE para balanceamento de classes
@@ -29,25 +27,19 @@ LinkedIn: linkedin.com/in/danilopaslar
   Resultado: melhoria significativa em acurácia e recall
 
 ## 2. Segmentação de Clientes via ML
-  
-  Link: GitHub
-  
+
   Clusterização com K-Means considerando idade e renda
   
   Resultado: aumento de 30% na eficácia de campanhas de marketing
 
 ## 3. Pipeline de Dados do Telegram
   
-  Link: GitHub
-  
   Construção de Data Lake em AWS S3 e orquestração com Lambda e API Gateway
   
   Transformação de mensagens em insights estratégicos
 
 ## 4. Gerenciamento de Biblioteca
-  
-  Link: GitHub
-  
+
   Modelagem de banco de dados relacional, consultas complexas, métricas de desempenho
   
   Resultado: monitoramento eficiente de empréstimos e análise de disponibilidade de livros
