@@ -6,7 +6,6 @@ Transformo dados em insights estratégicos para apoiar decisões e gerar impacto
 ## 📫 Contato
 
 LinkedIn: linkedin.com/in/danilopaslar
-GitHub: github.com/dpaslar
 
 ## 🔧 Skills Técnicas
   
